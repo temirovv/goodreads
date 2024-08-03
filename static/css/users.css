@@ -3,6 +3,13 @@
     width: 200px;
     border-radius: 50%;
 }
+
+.small-profile-pic {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
 .cover-pic {
     height: 300px;
     width: 220px;
